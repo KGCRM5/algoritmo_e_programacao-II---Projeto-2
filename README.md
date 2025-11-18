@@ -23,11 +23,17 @@ arquivo.txt = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce in
 
 a, 2
 adipiscing, 1
+
 amet, 1
+
 consectetur, 1
+
 dolor, 2
+
 donec, 1
+
 elit, 1
+
 fringilla, 1
 fusce, 1
 in, 1
