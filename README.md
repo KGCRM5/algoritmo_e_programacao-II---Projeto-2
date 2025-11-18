@@ -22,6 +22,7 @@ arquivo.txt = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce in
 *Saída*
 
 a, 2
+
 adipiscing, 1
 
 amet, 1
@@ -35,15 +36,27 @@ donec, 1
 elit, 1
 
 fringilla, 1
+
 fusce, 1
+
 in, 1
+
 ipsum, 1
+
 lacus, 1
+
 lorem, 2
+
 massa, 1
+
 orci, 1
+
 quis, 1
+
 sit, 1
+
 sollicitudin, 1
+
 tempus, 1
+
 total de palavras diferentes no dicionario = 19
