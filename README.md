@@ -16,9 +16,11 @@ Projeto desenvolvido para a disciplina **Algoritmo e Programação II**, com o o
 O programa permite saber o total de palavras diferentes contidas no arquivo.txt e a quantidade de vezes que cada uma delas se repetiu no arquivo. O programa também desconsidera espaços e caracteres não alfabéticos (tais como "!, ?, :, &, etc").
 
 **Exemplo**
+
 arquivo.txt = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce in lacus dolor. Donec a orci a lorem sollicitudin fringilla tempus quis massa. Duis eu nisl eu urna sollicitudin vestibulum eu eget erat."
 
 *Saída*
+
 a, 2
 adipiscing, 1
 amet, 1
